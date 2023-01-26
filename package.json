@@ -1,0 +1,19 @@
+{
+  "name": "@ccdlt/test-package",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccdlt/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccdlt/test-package/issues"
+  },
+  "homepage": "https://github.com/ccdlt/test-package#readme"
+}
